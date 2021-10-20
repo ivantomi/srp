@@ -4,8 +4,6 @@
 
 Prvom laboratorijskom vježbom demonstrirali smo ranjivost ARP protokola, koji mapira IP adrese s MAC adresama računala u mreži. Napadi koje smo izveli bili su man in the middle i denial of service napadi. 
 
-U primjeru na slici, računalo 4 presreće komunikaciju između računala 2 i 5, odnosno predstavlja se kao računalo 5 da bi "prisluškivalo" komunikaciju među njima. 
-
 # Postavljanje
 
 Nakon pokretanja potrebnih servisa (Windows i Ubuntu terminali), kloniranjem github repozitorija:
@@ -30,21 +28,21 @@ saznajemo sljedeće podatke o trima računalima koje koristimo:
 
 **station-1**
 
- `IP: 172.22.0.2
+ IP: 172.22.0.2
  
- MAC: 02:42:ac:16:00:02`
+ MAC: 02:42:ac:16:00:02
 
 **station-2**
 
- `IP: 172.22.0.4
+ IP: 172.22.0.4
  
- MAC: 02:42:ac:16:00:04`
+ MAC: 02:42:ac:16:00:04
 
 **evil-station**
 
- `IP: 172.22.0.3
+ IP: 172.22.0.3
  
- MAC: 02:42:ac:16:00:03`
+ MAC: 02:42:ac:16:00:03
 
 # Izvođenje
 
