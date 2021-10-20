@@ -2,8 +2,6 @@
 
 # Uvod
 
-![Untitled](Lab%20vjez%CC%8Cbe%201%20-%20Arp%20Spoofing%2076ebdd744ee94ec78998a371c0459b5f/Untitled.png)
-
 Prvom laboratorijskom vježbom demonstrirali smo ranjivost ARP protokola, koji mapira IP adrese s MAC adresama računala u mreži. Napadi koje smo izveli bili su man in the middle i denial of service napadi. 
 
 U primjeru na slici, računalo 4 presreće komunikaciju između računala 2 i 5, odnosno predstavlja se kao računalo 5 da bi "prisluškivalo" komunikaciju među njima. 
