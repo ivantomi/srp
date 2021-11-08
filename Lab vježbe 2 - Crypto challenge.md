@@ -89,4 +89,4 @@ brute_force()
 
 Slika BINGO.png izgleda ovako:
 
-![Untitled](Lab%20vjez%CC%8Cbe%202%20-%20Crypto%20challenge%20f77c3e0c68af4fbebb139302fa64d3de/Untitled.png)
+[[untitled.png]]
