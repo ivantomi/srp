@@ -89,4 +89,4 @@ brute_force()
 
 Slika BINGO.png izgleda ovako:
 
-[[/images/Untitled.png]]
+<figure><img src="images/Untitled.png"></figure>
